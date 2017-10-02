@@ -1,1 +1,1 @@
-var playlist = {};
+var playlist = {michael jackson: 'thriller'};
